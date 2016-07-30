@@ -93,8 +93,6 @@ Now we will use the previously defined machinery to generate an adversarial imag
 
 
 ```python
-prediction = None
-confidence = 0
 for i in range(5000):
     error = optimize_noise(zero_img, [0, 0, 0, 0, 0, 0, 0, 1, 0, 0])
 ```

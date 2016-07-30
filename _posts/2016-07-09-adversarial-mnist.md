@@ -4,6 +4,8 @@ title: "Generating Adversarial MNIST Images"
 date: 2016-07-09
 ---
 
+This post was created from an ipython notebook that you can [download](https://github.com/lhannest/adversarial-mnist/blob/master/Generating_Adversarial_Images_with_MNIST.ipynb) and run yourself.
+
 ```python
 import theano
 import theano.tensor as T

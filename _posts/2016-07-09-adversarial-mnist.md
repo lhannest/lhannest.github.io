@@ -89,7 +89,7 @@ print 'predicted the number', prediction, 'with a confidence of', confidence * 1
     predicted the number 0 with a confidence of 96.4786708355 %
 
 
-Now we will use the previously defined machinery to generate an adversarial image. Notice that we're using a one-hot-encoding to represent a target output value of five.
+Now we will use the previously defined machinery to generate an adversarial image. Notice that we're using a one-hot-encoding to represent a target output value of seven.
 
 
 ```python

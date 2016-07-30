@@ -77,7 +77,7 @@ plt.show()
 ```
 
 
-![alt text](lhannest.github.io/_posts/_images/2016-07-09-adversarial-mnist/output_12_0.png)
+![alt text](https://raw.githubusercontent.com/lhannest/adversarial-mnist/master/images/ipython_notebook_images/original.png)
 
 
 
@@ -107,7 +107,7 @@ plt.show()
 ```
 
 
-![alt text]( lhannest.github.io/_posts/_images/2016-07-09-adversarial-mnist/output_16_0.png )
+![alt text](https://raw.githubusercontent.com/lhannest/adversarial-mnist/master/images/ipython_notebook_images/adversarial.png)
 
 
 

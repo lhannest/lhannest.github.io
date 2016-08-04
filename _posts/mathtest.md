@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Theano"
+title: "Math Test"
 date: 2016-04-23
 ---
 
